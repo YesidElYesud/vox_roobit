@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "DatasmithContent",
-			"Enabled": false
-		},
-		{
 			"Name": "MeshPainting",
 			"Enabled": false
 		},
