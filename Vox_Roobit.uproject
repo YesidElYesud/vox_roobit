@@ -10,10 +10,27 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "DatasmithContent",
+			"Enabled": false
+		},
+		{
+			"Name": "MeshPainting",
+			"Enabled": false
+		},
+		{
+			"Name": "InterchangeTests",
+			"Enabled": false
+		},
+		{
+			"Name": "InterchangeEditor",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
